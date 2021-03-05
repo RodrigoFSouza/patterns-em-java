@@ -1,0 +1,10 @@
+br\com\estudos\patterns\estrutural\bridge\trasmissions\AdvancedLive.class
+br\com\estudos\patterns\estrutural\bridge\platforms\Facebook.class
+br\com\estudos\patterns\estrutural\bridge\platforms\IPlatform.class
+br\com\estudos\patterns\estrutural\bridge\platforms\TwitchTV.class
+br\com\estudos\patterns\estrutural\bridge\trasmissions\Live.class
+br\com\estudos\patterns\estrutural\bridge\trasmissions\RecordLive.class
+br\com\estudos\patterns\estrutural\bridge\platforms\DisneyPlus.class
+br\com\estudos\patterns\estrutural\bridge\platforms\YouTube.class
+br\com\estudos\patterns\Main.class
+br\com\estudos\patterns\estrutural\bridge\trasmissions\ITransmission.class
